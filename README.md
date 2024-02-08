@@ -1,3 +1,3 @@
-mrxsky/rateMelisa.github.io
+rateMelisa.github.io
 
 
